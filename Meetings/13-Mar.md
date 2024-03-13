@@ -1,7 +1,3 @@
-# The Initial Meeting
-
-## 1. The main questions:
-
 <h1 align='center'>🔥 1st Meeting 🔥 <br> 👉 The Main Questions ❓❓ 👈</h1>
 
 
