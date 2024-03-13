@@ -23,7 +23,7 @@
 
 ## 3. Project Timeline and Deadlines:
 - What is the expected timeline for the project?
-  - a week or 4 days
+  - ??
 - Are there any specific deadlines or launch dates to consider?
   - ??
 
