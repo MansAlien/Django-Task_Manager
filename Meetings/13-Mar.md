@@ -2,7 +2,7 @@
 
 ## 1. The main questions:
 
-<h1 align='center'>🔥 1st Meeting 🔥 <br> 👉 The Main Questions ❓ 👈</h1>
+<h1 align='center'>🔥 1st Meeting 🔥 <br> 👉 The Main Questions ❓❓ 👈</h1>
 
 
 ## 1. Project Scope and Objectives:
@@ -33,14 +33,14 @@
   - ?? EGP
 ## 1. Communication and Collaboration:
 - How would you prefer to communicate during the project (e.g., email, meetings)?
-  - 
+  - ??
 - Are there any other stakeholders or team members involved in the project?
-  - 
+  - ??
 
 ## 1. Maintenance and Support:
 - Will there be ongoing maintenance and support requirements after the initial development?
-  - 
+  - ??
 
 ## 1. Feedback and Iteration:
 - How will feedback and iteration be handled throughout the development process?
-  - 
+  - ??
