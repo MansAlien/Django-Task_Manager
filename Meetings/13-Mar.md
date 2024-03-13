@@ -3,20 +3,23 @@
 
 ## 1. Project Scope and Objectives:
 - What is the primary purpose of the Django project?
-  - Task Manager for the Employees.
+  - Order & Task Manager Applications.
 - What specific functionalities are required?
-  - (my openion) put the tasks at levels an the employee can't go to the next level until he is done with the tasks of the 1st level.
-- Are there any particular features or integrations that are essential?
-  - dashboard.
-- What are the project's short-term and long-term goals?
-  - (Short Term) => create the main features of the "Task Manager" project.
-  - (Long Term) => create the dashboard , deploy the project ,and the "Task Manager" app to the main project.
+  - order:
+    - taking data from the client.
+    - items, products, payment, Customer data, custom employee , department, order
+  - Task Manager:
+    - tracking the order of the client and create some tasks for the employss
+    - subcategories, subcategories stander tasks, stander tasks, stander task dp, stander tasks or dp, group members, main categories, tasks, comment, notification, feedback
+
+- What are the project's long-term goals?
+  - (Long Term) => job title, job titles History, Apis, dashboard
 
 ## 2. Design and User Interface:
 - Do you have any design preferences or existing design guidelines to follow?
-    - give me the old design
+    - give me the old design => ??
 - Are there any specific UI/UX requirements or considerations?
-    - image of the new design here => 
+    - image of the new design here => ??
 
 ## 3. Project Timeline and Deadlines:
 - What is the expected timeline for the project?
