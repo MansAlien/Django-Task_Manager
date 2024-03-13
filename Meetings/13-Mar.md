@@ -18,25 +18,25 @@
 - Are there any specific UI/UX requirements or considerations?
     - image of the new design here => 
 
-## 1. Project Timeline and Deadlines:
+## 3. Project Timeline and Deadlines:
 - What is the expected timeline for the project?
   - a week or 4 days
 - Are there any specific deadlines or launch dates to consider?
   - ??
 
-## 1. Budget and Compensation:
+## 4. Budget and Compensation:
 - Will there be a budget allocated for this project?
   - ?? EGP
-## 1. Communication and Collaboration:
+## 5. Communication and Collaboration:
 - How would you prefer to communicate during the project (e.g., email, meetings)?
   - ??
 - Are there any other stakeholders or team members involved in the project?
   - ??
 
-## 1. Maintenance and Support:
+## 6. Maintenance and Support:
 - Will there be ongoing maintenance and support requirements after the initial development?
   - ??
 
-## 1. Feedback and Iteration:
+## 7. Feedback and Iteration:
 - How will feedback and iteration be handled throughout the development process?
   - ??
